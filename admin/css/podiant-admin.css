@@ -1,0 +1,11 @@
+a.menu-icon-episode img {
+    height: 20px;
+}
+
+.podiant-settings-label {
+    font-weight: bold;
+}
+
+table.podcasts .column-id {
+    width: 15%;
+}
